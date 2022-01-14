@@ -1,2 +1,2 @@
 # cafe-application-logo
-It's an application loga designed in Adobe Illustrator.
+It's an application logo designed in Adobe Illustrator.
